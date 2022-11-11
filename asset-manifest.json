@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crypto-watch/static/css/main.4763498d.css",
-    "main.js": "/crypto-watch/static/js/main.98b822fb.js",
+    "main.js": "/crypto-watch/static/js/main.e8e61ef4.js",
     "static/media/banner2.jpg": "/crypto-watch/static/media/banner2.19419d69e5001e322fee.jpg",
     "index.html": "/crypto-watch/index.html",
     "main.4763498d.css.map": "/crypto-watch/static/css/main.4763498d.css.map",
-    "main.98b822fb.js.map": "/crypto-watch/static/js/main.98b822fb.js.map"
+    "main.e8e61ef4.js.map": "/crypto-watch/static/js/main.e8e61ef4.js.map"
   },
   "entrypoints": [
     "static/css/main.4763498d.css",
-    "static/js/main.98b822fb.js"
+    "static/js/main.e8e61ef4.js"
   ]
 }
