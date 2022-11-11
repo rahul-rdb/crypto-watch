@@ -38,7 +38,7 @@ const Header = () => {
       <AppBar position="static" color="transparent">
         <Container>
           <Toolbar>
-            <StyledLogo className="glow" variant="h6" onClick={() => navigate("/")}>
+            <StyledLogo className="glow" variant="h6" onClick={() => navigate("/crypto-watch")}>
               Crypto Watch
             </StyledLogo>
             <Select
