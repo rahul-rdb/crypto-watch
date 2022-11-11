@@ -8,7 +8,7 @@ function App() {
   
   return (
     <div className="App">
-      <Header />
+      <Header path="/"/>
       <Routes>
         <Route path="/" element={<HomePage/>}/>
         <Route exact path="/coins/:id" element={<CoinsPage/>}/>
