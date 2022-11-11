@@ -1,0 +1,19 @@
+.glow {
+  animation: animate 5s linear infinite;
+  color: #111;
+}
+@keyframes animate {
+  0%,
+  100% {
+    color: #fff;
+    /* filter: blur(0.5px); */
+    text-shadow: 0 0 10px #00bbff, 0 0 20px #00bbff, 0 0 40px #00bbff,
+      0 0 80px #00bbff, 0 0 120px #00bbff, 0 0 140px #00bbff;
+  }
+  5%,
+  55% {
+    color: #111;
+    filter: blur(0px);
+    text-shadow: none;
+  }
+}
